@@ -3,7 +3,7 @@
 --------------------------------------------------
 
 
-<img src="https://github.com/kirina32/RESUME/blob/main/SeungJunHa.png" width="40%" height="40%" />
+<img src="https://github.com/kirina32/RESUME/blob/main/SeungJunHa.png" width="2%" height="20%" />
 
 **군필여부 : 육군만기전역**
 
