@@ -3,7 +3,7 @@
 --------------------------------------------------
 
 
-<img src="https://github.com/kirina32/RESUME/blob/main/KakaoTalk_Photo_2021-07-08-16-36-34.jpeg" style="zoom:5%;" />
+<img src="https://github.com/kirina32/RESUME/blob/main/KakaoTalk_Photo_2021-07-08-16-36-34.jpeg" alt="KakaoTalk_Photo_2021-07-08-16-36-34"style="zoom:5%;" />
 
 **군필여부 : 육군만기전역**
 
