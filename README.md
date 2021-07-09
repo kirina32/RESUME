@@ -149,13 +149,11 @@ Linkedln: [linkedin.com/in/kirina32](http://linkedin.com/in/kirina32)
 - 시스템흐름도 작성
 - 엔터티 값들을 분류
 
-<img src="https://github.com/kirina32/RESUME/blob/main/weather/1.png?raw=true" width="20%" height="20%"/>
-<img src="https://github.com/kirina32/RESUME/blob/main/weather/2.png?raw=true" width="20%" height="20%"/>
-<img src="https://github.com/kirina32/RESUME/blob/main/weather/3.png?raw=true" width="20%" height="20%"/>
-<img src="https://github.com/kirina32/RESUME/blob/main/weather/4.png?raw=true" width="20%" height="20%"/>
-<img src="https://github.com/kirina32/RESUME/blob/main/weather/5.png?raw=true" width="20%" height="20%"/>>
-<img src="https://github.com/kirina32/RESUME/blob/main/weather/6.png?raw=true" width="20%" height="20%"/>
-<img src="https://github.com/kirina32/RESUME/blob/main/weather/7.png?raw=true" width="20%" height="20%"/>
+<img src="https://github.com/kirina32/RESUME/blob/main/weather/1.png?raw=true" width="20%" height="20%"/><img src="https://github.com/kirina32/RESUME/blob/main/weather/2.png?raw=true" width="20%" height="20%"/><img src="https://github.com/kirina32/RESUME/blob/main/weather/3.png?raw=true" width="20%" height="20%"/><img src="https://github.com/kirina32/RESUME/blob/main/weather/4.png?raw=true" width="20%" height="20%"/>
+
+<img src="https://github.com/kirina32/RESUME/blob/main/weather/5.png?raw=true" width="20%" height="20%"/>><img src="https://github.com/kirina32/RESUME/blob/main/weather/6.png?raw=true" width="20%" height="20%"/><img src="https://github.com/kirina32/RESUME/blob/main/weather/7.png?raw=true" width="20%" height="20%"/>
+
+
 
 <h4>실내마스크착용감지기</h4>
 
