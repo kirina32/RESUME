@@ -149,7 +149,7 @@ Linkedln: [linkedin.com/in/kirina32](http://linkedin.com/in/kirina32)
 - 시스템흐름도 작성
 - 엔터티 값들을 분류
 
-<img src="/https://github.com/kirina32/Resume/blob/main/날씨를부탁해/스크린샷 2021-07-09 오전 10.41.10.png" alt="스크린샷 2021-07-09 오전 10.41.10" style="zoom:15%;" />
+<img src="https://github.com/kirina32/RESUME/blob/main/날씨를부탁해/스크린샷 2021-07-09 오전 10.41.10.png" alt="스크린샷 2021-07-09 오전 10.41.10" style="zoom:15%;" />
 
 <img src="/https://github.com/kirina32/Resume/blob/main/날씨를부탁해/스크린샷 2021-07-09 오전 10.41.38.png" alt="스크린샷 2021-07-09 오전 10.41.38" style="zoom:15%;" />
 
