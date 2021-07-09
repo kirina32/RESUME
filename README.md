@@ -149,17 +149,19 @@ Linkedln: [linkedin.com/in/kirina32](http://linkedin.com/in/kirina32)
 - 시스템흐름도 작성
 - 엔터티 값들을 분류
 
-<img src="https://github.com/kirina32/RESUME/blob/main/날씨를부탁해/스크린샷 2021-07-09 오전 10.41.10.png" alt="스크린샷 2021-07-09 오전 10.41.10" style="zoom:15%;" />
+<img src="https://github.com/kirina32/RESUME/blob/main/weather/1.png?raw=true" width="20%" height="20%"/>
 
-<img src="/https://github.com/kirina32/Resume/blob/main/날씨를부탁해/스크린샷 2021-07-09 오전 10.41.38.png" alt="스크린샷 2021-07-09 오전 10.41.38" style="zoom:15%;" />
+<img src="https://github.com/kirina32/RESUME/blob/main/weather/2.png?raw=true" width="20%" height="20%"/>
 
-<img src="/https://github.com/kirina32/Resume/blob/main/날씨를부탁해/스크린샷 2021-07-09 오전 10.41.46.png" alt="스크린샷 2021-07-09 오전 10.41.46" style="zoom:15%;" />
+<img src="https://github.com/kirina32/RESUME/blob/main/weather/3.png?raw=true" width="20%" height="20%"/>
 
-<img src="/https://github.com/kirina32/Resume/blob/main/날씨를부탁해/스크린샷 2021-07-09 오전 10.41.59.png" alt="스크린샷 2021-07-09 오전 10.41.59" style="zoom:15%;" />
+<img src="https://github.com/kirina32/RESUME/blob/main/weather/4.png?raw=true" width="20%" height="20%"/>
 
-<img src="/https://github.com/kirina32/Resume/blob/main/날씨를부탁해/스크린샷 2021-07-09 오전 10.42.06.png" alt="스크린샷 2021-07-09 오전 10.42.06" style="zoom:15%;" />
+<img src="https://github.com/kirina32/RESUME/blob/main/weather/5.png?raw=true" width="20%" height="20%"/>>
 
-<img src="/https://github.com/kirina32/Resume/blob/main/날씨를부탁해/스크린샷 2021-07-09 오전 10.42.12.png" alt="스크린샷 2021-07-09 오전 10.42.12" style="zoom:15%;" />
+<img src="https://github.com/kirina32/RESUME/blob/main/weather/6.png?raw=true" width="20%" height="20%"/>
+
+<img src="https://github.com/kirina32/RESUME/blob/main/weather/7.png?raw=true" width="20%" height="20%"/>
 
 <h4>실내마스크착용감지기</h4>
 
@@ -172,10 +174,10 @@ Linkedln: [linkedin.com/in/kirina32](http://linkedin.com/in/kirina32)
 
 
 
-<img src="/https://github.com/kirina32/Resume/blob/main/마스크/스크린샷 2021-07-09 오전 10.37.58.png" alt="스크린샷 2021-07-09 오전 10.37.58" style="zoom:15%;" />
+<img src="https://github.com/kirina32/RESUME/blob/main/mask/1.png?raw=true" width="20%" height="20%" />
 
-<img src="/https://github.com/kirina32/Resume/blob/main/마스크/스크린샷 2021-07-09 오전 10.38.11.png" alt="스크린샷 2021-07-09 오전 10.38.11" style="zoom:15%;" />
+<img src="https://github.com/kirina32/RESUME/blob/main/mask/2.png?raw=true" width="20%" height="20%"/>
 
-<img src="/https://github.com/kirina32/Resume/blob/main/마스크/스크린샷 2021-07-09 오전 10.38.20.png" alt="스크린샷 2021-07-09 오전 10.38.20" style="zoom:15%;" />
+<img src="https://github.com/kirina32/RESUME/blob/main/mask/3.png?raw=true" width="20%" height="20%"/>
 
-<img src="/https://github.com/kirina32/Resume/blob/main/마스크/스크린샷ᅣᆺ 2021-07-09 오전 10.38.31.png" alt="스크린샷 2021-07-09 오전 10.38.31" style="zoom:15%;" />
+<img src="https://github.com/kirina32/RESUME/blob/main/mask/4.png?raw=true" width="20%" height="20%"/>
