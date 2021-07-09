@@ -2,7 +2,8 @@
 
 --------------------------------------------------
 
-<img src="/Applications/KakaoTalk_Photo_2021-07-08-16-36-34.jpeg" alt="KakaoTalk_Photo_2021-07-08-16-36-34" style="zoom:5%;" />
+
+<img src="https://github.com/kirina32/RESUME/blob/main/KakaoTalk_Photo_2021-07-08-16-36-34.jpeg" style="zoom:5%;" />
 
 **군필여부 : 육군만기전역**
 
@@ -14,9 +15,9 @@ GitHub : [gitgub.com/kirina32](http://gitgub.com/kirina32)
 
 Linkedln: [linkedin.com/in/kirina32](http://linkedin.com/in/kirina32)
 
-    ~~~
+    
     항상 함께하고 싶고, 필요로하는 사람이 되고 싶습니다.
-    ~~~
+    
 
 
 
