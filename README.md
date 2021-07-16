@@ -91,8 +91,6 @@ Linkedln: [linkedin.com/in/kirina32](http://linkedin.com/in/kirina32)
 
 - Android
 
-  Android 개발자가 되고 싶은게 목표
-
   2021 프로젝트를 통해 RIOT OPEN API를 활용한 커뮤니티 프로그램 제작 예정
 
   로그인 방식에 사용했던 KAKAO, NAVER API 부터 시작으로
