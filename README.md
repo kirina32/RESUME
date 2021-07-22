@@ -24,7 +24,7 @@ Linkedln: [linkedin.com/in/kirina32](http://linkedin.com/in/kirina32)
 <h4> <span style="color:#f7e600">학력</span></h4>
 
 ----------------
-
+- 데이타뱅크시스템즈 Oracle WebLogic (M/W) 엔지니어 (2021.08~ 
 - 영남이공대학교 소프트웨어콘텐츠 학과 졸업(2022)
 - 성산고등학교 졸업(2016)
 - 성곡중학교 졸업(2013)
